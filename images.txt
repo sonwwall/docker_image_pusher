@@ -1,3 +1,2 @@
 python:3.9
-redis:alpine3.21
-redis:7.4.2
+nginx:stable-perl
