@@ -5,3 +5,5 @@ ubuntu:plucky-20241213
 bitnami/redis
 wordpress
 mysql
+mysql
+wordpress
