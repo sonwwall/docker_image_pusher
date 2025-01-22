@@ -1,8 +1,6 @@
 python:3.9
 nginx:stable-perl
-redis:alpine3.21
 ubuntu:plucky-20241213
 bitnami/redis
 mysql
 wordpress
-redis:latest
