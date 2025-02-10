@@ -4,3 +4,4 @@ ubuntu:plucky-20241213
 bitnami/redis
 mysql
 wordpress
+ngnix:latest
